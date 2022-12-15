@@ -1,0 +1,17 @@
+thead,
+tfoot{
+    background-color: black;
+    color: aqua;
+}
+table,td,th,tr{
+    border: 3px;
+    border-style: solid;
+    border-color: rgb(8, 238, 47);
+}
+img{
+    border-radius: 50%;
+}
+h3{
+    font-size: medium;
+    color: red;
+}
